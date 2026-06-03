@@ -64,7 +64,7 @@ function [Power, Frequency] = WelchPowerSpectralDensity(Data1, Data2, Window, Ov
     DataLength              = numel(Data1);
     
     %% Welch's method
-    
+        
     WindowCompensation      = Window' * Window;
     SegmentLength           = length(Window);
     SegmentOverlapLength    = round(SegmentLength * OverlapFactor);
