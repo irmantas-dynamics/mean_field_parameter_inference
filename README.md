@@ -3,7 +3,7 @@
 Code for reproducing the figures from the paper:
 
 > **"Parameter and hidden-state inference in mean-field models from partial observations of finite-size neural networks"**
-> [https://doi.org/.....](https://doi.org/.....)
+> [https://doi.org/10.1038/s41598-026-65545-x](https://doi.org/10.1038/s41598-026-65545-x)
 
 ---
 
